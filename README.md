@@ -1,6 +1,6 @@
 # Hi, I'm Andressa Stéfany! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<p>:mortar_board: Computer Engineer at <a href="https://ufrn.br/">Federal University of Rio Grande do Norte</a></p>
+<p>:mortar_board: Master in Computer Engineer at <a href="https://ufrn.br/">Federal University of Rio Grande do Norte</a></p>
 
 :game_die: Data Science enthusiast
 
@@ -20,7 +20,7 @@ const Andressa = {
   work: ["Machine Learning", "Evolving Systems", "Data Stream", "Clustering"],
   challenge: {
                 achievement: "TOP 100 LATAM at Behind the Code 2020 IBM Marathon",
-                study: "Master's Study in Computer Engineering"
+                currently: "Ph.D. student in Computer Engineering at Polytechnique Montréal"
              }
 }
 ```
