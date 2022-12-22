@@ -1,13 +1,12 @@
 # Hi, I'm Andressa Stéfany! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<p>:mortar_board: Master in Computer Engineer at <a href="https://ufrn.br/">Federal University of Rio Grande do Norte</a></p>
+<p>:mortar_board: Computer Engineer at <a href="https://ufrn.br/">Federal University of Rio Grande do Norte</a></p>
 
 :game_die: Data Science enthusiast
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/andressastefany)
-[![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat&logo=Medium&logoColor=white)](https://medium.com/@SubaiDessa)
-[![Twitter: SubaiDessa](https://img.shields.io/twitter/follow/SubaiDessa?style=social)](https://twitter.com/SubaiDessa)
 [![GitHub AndressaStefany](https://img.shields.io/github/followers/andressastefany?label=follow&style=social)](https://github.com/AndressaStefany)
+<!-- [![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat&logo=Medium&logoColor=white)](https://medium.com/@SubaiDessa) -->
 
 
 ### :blush: A little more about me...  
@@ -20,7 +19,7 @@ const Andressa = {
   work: ["Machine Learning", "Evolving Systems", "Data Stream", "Clustering"],
   challenge: {
                 achievement: "TOP 100 LATAM at Behind the Code 2020 IBM Marathon",
-                currently: "Ph.D. student in Computer Engineering at Polytechnique Montréal"
+                currently: "Master's student in Computer Engineering at Polytechnique Montréal"
              }
 }
 ```
