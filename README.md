@@ -1,4 +1,4 @@
-# Hi, I'm Andressa Stéfany! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi, I'm Andressa Oliveira! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <p>:mortar_board: Computer Engineer at <a href="https://ufrn.br/">Federal University of Rio Grande do Norte</a></p>
 
